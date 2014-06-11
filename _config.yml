@@ -1,0 +1,10 @@
+# Site settings
+title: Welcome to FireFight
+email: admin@firefight.io
+description: "A site for sysadmins to learn how to practice fighting fires"
+baseurl: ""
+url: "http://firefight.io"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
